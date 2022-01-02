@@ -1,6 +1,7 @@
 ### How's it going? I'm Knight Steele, what brings you here?
 
-<br />
+- I'm a good man...and thorough.
+  <br />
 
 ## I'm a Fullstack software developer and Game Programmer / Designer.
 
