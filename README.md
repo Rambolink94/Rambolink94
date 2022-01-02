@@ -45,6 +45,10 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rambolink94)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 <img align="left" alt="Rambolink94's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rambolink94&show_icons=true&hide_border=true&theme=dark" />
 
 <br />
