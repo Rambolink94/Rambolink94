@@ -51,7 +51,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rambolink94&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rambolink94&layout=compact&hide_border=true&theme=dark&exclude_repo=degree-planner,DGM-1660,DGM1660,DGM1600)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
