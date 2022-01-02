@@ -41,6 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [When you have your music library set to shuffle](https://www.youtube.com/watch?v=Z6xas1a3ndA)
+- [Aragorn gets his johnson cut off](https://www.youtube.com/watch?v=DRY6qDBI5lo)
+- [Harry Potter and the Return of the King](https://www.youtube.com/watch?v=x6cSbZ_upIc)
+- [Transcendence Through Death](https://www.youtube.com/watch?v=TDmKxQ5eCv4)
+- [Harry Potter and the Rug that really tied the room together &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=TVEpih_ekLo)
 <!-- YOUTUBE:END -->
 
 ---
