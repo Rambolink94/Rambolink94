@@ -5,11 +5,10 @@
 
 ## I'm a Fullstack software developer and Game Programmer / Designer.
 
-- 🎬 Currently I'm working on a local media Movie streaming application called [izzi][izzi]!
 - 🎮 I'm also working on a first person shooter prototype with some interesting mechanics.
+- 🎬 Currently I'm working on a local media Movie streaming application called [izzi][izzi]!
 - 🍻 I'm looking to collaborate with other game developers, specifically artists.
-- 🏢 I am currently working as a fullstack developer using mainly Nodejs and Reactjs.
-- ⚡ Fun Fact: I'm currently replaying all of the Witcher games. Epic games!
+- 🏢 I am currently working as a freelance game developer.
 - 📺 Lastly, I'm slowly getting a YouTube channel up and running.
 
 ### Connect with me:
